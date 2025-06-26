@@ -22,39 +22,39 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      title: "Отсылки",
+      noBacklinksFound: "Отсылок (внезапно!) нет",
     },
     themeToggle: {
-      lightMode: "Light mode",
-      darkMode: "Dark mode",
+      lightMode: "Светлая тема",
+      darkMode: "Тёмная тема",
     },
     explorer: {
       title: "Изучить",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "Создано с помощью",
     },
     graph: {
-      title: "Graph View",
+      title: "График",
     },
     recentNotes: {
-      title: "Recent Notes",
+      title: "Недавние заметки",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transclude of ${targetSlug}`,
-      linkToOriginal: "Link to original",
+      transcludeOf: ({ targetSlug }) => `Переход из ${targetSlug}`,
+      linkToOriginal: "Ссылка на оригинал",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "Поиск",
+      searchBarPlaceholder: "Я ищу…",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "Содержание",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => `время чтения ~${minutes} мин`,
     },
   },
   pages: {
@@ -63,14 +63,14 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
-      home: "Return to Homepage",
+      title: "Страница не найдена",
+      notFound: "Эта страница скрыта или не найдена по указу Отдела тайн",
+      home: "Не нажимайте на эту кнопку, это уловка Отдела тайн. Просто нажмите «назад» в окне браузера",
     },
     folderContent: {
-      folder: "Folder",
+      folder: "Папка",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+       `в этой папке ${count} элемент${getForm(count, "", "а", "ов")}`,
     },
     tagContent: {
       tag: "Tag",
