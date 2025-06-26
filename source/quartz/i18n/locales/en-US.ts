@@ -23,14 +23,14 @@ export default {
     },
     backlinks: {
       title: "Отсылки",
-      noBacklinksFound: "Отсылок (внезапно!) нет",
+      noBacklinksFound: "",
     },
     themeToggle: {
       lightMode: "Светлая тема",
       darkMode: "Тёмная тема",
     },
     explorer: {
-      title: "Изучить",
+      title: "Погрузиться",
     },
     footer: {
       createdWith: "Создано с помощью",
