@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "А. Персонажи/А2. 1880-1899/Торкуил Трэверс.md",
+                "file": "А. Персонажи/А3. 1900-1919/Филиус Флитвик.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Торкуил Трэверс"
+              "title": "Филиус Флитвик"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "А. Персонажи/А2. 1880-1899/Торкуил Трэверс.md",
+                "file": "А. Персонажи/А3. 1900-1919/Филиус Флитвик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Торкуил Трэверс"
+              "title": "Backlinks for Филиус Флитвик"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "А. Персонажи/А2. 1880-1899/Торкуил Трэверс.md",
+                "file": "А. Персонажи/А3. 1900-1919/Филиус Флитвик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Торкуил Трэверс"
+              "title": "Outgoing links from Филиус Флитвик"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "А. Персонажи/А2. 1880-1899/Торкуил Трэверс.md",
+                "file": "А. Персонажи/А3. 1900-1919/Филиус Флитвик.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Торкуил Трэверс"
+              "title": "Outline of Филиус Флитвик"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "А. Персонажи/А3. 1900-1919/Рудольф Шпильман.md",
+    "А. Персонажи/А3. 1900-1919/Гаррик Олливандер.md",
+    "А. Персонажи/А2. 1880-1899/Торкуил Трэверс.md",
     "А. Персонажи/А2. 1880-1899/Тесеус Саламандер.md",
     "А. Персонажи/А2. 1880-1899/Сандро Альвини.md",
     "А. Персонажи/А2. 1880-1899/Сакаи.md",
