@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "А. Персонажи/А1. До 1880/Яромир Ройс.md",
+                "file": "А. Персонажи/А2. 1880-1899/Альбус Дамблдор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Яромир Ройс"
+              "title": "Альбус Дамблдор"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "А. Персонажи/А1. До 1880/Яромир Ройс.md",
+                "file": "А. Персонажи/А2. 1880-1899/Альбус Дамблдор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Яромир Ройс"
+              "title": "Backlinks for Альбус Дамблдор"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "А. Персонажи/А1. До 1880/Яромир Ройс.md",
+                "file": "А. Персонажи/А2. 1880-1899/Альбус Дамблдор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Яромир Ройс"
+              "title": "Outgoing links from Альбус Дамблдор"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "А. Персонажи/А1. До 1880/Яромир Ройс.md",
+                "file": "А. Персонажи/А2. 1880-1899/Альбус Дамблдор.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Яромир Ройс"
+              "title": "Outline of Альбус Дамблдор"
             }
           }
         ]
@@ -186,9 +186,11 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Е. Артефакторика/Артефакты/Дары смерти.md",
+    "А. Персонажи/А2. 1880-1899/Альбус Дамблдор.md",
+    "А. Персонажи/А1. До 1880/Яромир Ройс.md",
     "А. Персонажи/А1. До 1880/Тильберт Тофти.md",
     "А. Персонажи/А1. До 1880/Николас Фламель.md",
-    "А. Персонажи/А1. До 1880/Яромир Ройс.md",
     "ИДЕИ.md",
     "Б. Организации/Б3. Международные/Международная конфедерация магов (МКМ).md",
     "Б. Организации/Б4. Британские",
