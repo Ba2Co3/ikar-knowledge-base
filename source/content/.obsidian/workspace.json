@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Организации/Грифоны.md",
+                "file": "ИДЕИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Грифоны"
+              "title": "ИДЕИ"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Организации/Грифоны.md",
+                "file": "ИДЕИ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Грифоны"
+              "title": "Backlinks for ИДЕИ"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Организации/Грифоны.md",
+                "file": "ИДЕИ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Грифоны"
+              "title": "Outgoing links from ИДЕИ"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Организации/Грифоны.md",
+                "file": "ИДЕИ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Грифоны"
+              "title": "Outline of ИДЕИ"
             }
           }
         ]
@@ -184,16 +184,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Организации/Бюро наблюдателей.md",
-    "Организации/Международная артефакторская гильдия (МАГ).md",
-    "Организации/Международная конфедерация магов (МКМ).md",
-    "Организации/Орден феникса.md",
+    "Б. Организации/Б3. Международные/Международная конфедерация магов (МКМ).md",
+    "Б. Организации/Б4. Британские",
+    "Б. Организации/Б3. Международные/Грифоны.md",
+    "Б. Организации/Б3. Международные",
+    "Б. Организации/Б3. Международные/Бюро наблюдателей.md",
+    "Б. Организации/Б3. Международные/Международная артефакторская гильдия (МАГ).md",
+    "Б. Организации/Б4. Британские/Орден феникса.md",
     "2. Организации/Международные/МАГ/Всемирная выставка артефактов и зачарованных штук.md",
     "index.md",
-    "Персонажи/До 1880/Николас Фламель.md",
-    "Персонажи/До 1880/Тильберт Тофти.md",
+    "А. Персонажи/А1. До 1880/Николас Фламель.md",
+    "А. Персонажи/А1. До 1880/Тильберт Тофти.md",
     "category-folder/Some note.md",
     "category-folder/index.md",
     "category-folder"
