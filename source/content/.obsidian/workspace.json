@@ -35,7 +35,8 @@
               "title": "Магия"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "В. Народы/Сфинксы.md",
+                "file": "Д. Магия/Теория/Магия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Сфинксы"
+              "title": "Backlinks for Магия"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "В. Народы/Сфинксы.md",
+                "file": "Д. Магия/Теория/Магия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Сфинксы"
+              "title": "Outgoing links from Магия"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "В. Народы/Сфинксы.md",
+                "file": "Д. Магия/Теория/Магия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Сфинксы"
+              "title": "Outline of Магия"
             }
           }
         ]
@@ -183,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "1e2a99ff1a44c2c2",
   "lastOpenFiles": [
+    "В. Народы/Сфинксы.md",
     "Д. Магия/Теория/Магия.md",
     "Е. Артефакторика/Теория/Мастер.md",
-    "В. Народы/Сфинксы.md",
     "А. Персонажи/А11. Упоминания/Флимонт Поттер.md",
     "index.md",
     "Е. Артефакторика/Теория/Специализации в артефакторике.md",
