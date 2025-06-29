@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "В. Народы/Сфинксы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Сфинксы"
+            }
+          },
+          {
+            "id": "1e2a99ff1a44c2c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Д. Магия/Теория/Магия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Магия"
             }
           }
         ]
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "В. Народы/Сфинксы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Сфинксы"
             }
           },
           {
@@ -113,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "В. Народы/Сфинксы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Сфинксы"
             }
           },
           {
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "В. Народы/Сфинксы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Сфинксы"
             }
           }
         ]
@@ -171,14 +185,17 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Е. Артефакторика/Теория/Специализации в артефакторике.md",
+    "Д. Магия/Теория/Магия.md",
     "Е. Артефакторика/Теория/Мастер.md",
+    "В. Народы/Сфинксы.md",
+    "А. Персонажи/А11. Упоминания/Флимонт Поттер.md",
+    "index.md",
+    "Е. Артефакторика/Теория/Специализации в артефакторике.md",
     "А. Персонажи/А11. Упоминания/Джеймс Уатт.md",
     "А. Персонажи/А4. 1920–1939/Минерва Макгонагалл.md",
     "Г. Семьи/Блэки.md",
     "Г. Семьи/Гриффиндоры.md",
     "А. Персонажи/А11. Упоминания/Франц Антон Мессмер.md",
-    "А. Персонажи/А11. Упоминания/Флимонт Поттер.md",
     "А. Персонажи/А11. Упоминания/Тиберий Огден.md",
     "А. Персонажи/А11. Упоминания/Сивилла Трелони.md",
     "А. Персонажи/А11. Упоминания/Николас Малфой.md",
@@ -194,9 +211,6 @@
     "А. Персонажи/А11. Упоминания/Батильда Бэгшот.md",
     "А. Персонажи/А11. Упоминания/Барзукх Двуликий.md",
     "А. Персонажи/А11. Упоминания/Альфард Блэк.md",
-    "А. Персонажи/А11. Упоминания/Александр Великий.md",
-    "А. Персонажи/А10. Легендарные/Герпий Злостный.md",
-    "А. Персонажи/А10. Легендарные/Гален.md",
     "Б. Организации/Б4. Британские организации",
     "Б. Организации/Б3. Международные организации",
     "category-folder"
