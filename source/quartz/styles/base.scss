@@ -182,7 +182,7 @@ a {
       gap: 2rem;
       top: 0;
       box-sizing: border-box;
-      padding: $topSpacing 1rem 1rem 1rem;
+      padding: $topSpacing 2rem 2rem 2rem;
       display: flex;
       height: 100vh;
       position: sticky;
@@ -585,4 +585,9 @@ iframe.pdf {
   height: 100%;
   width: 100%;
   border-radius: 5px;
+}
+
+p {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
