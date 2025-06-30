@@ -35,8 +35,7 @@
               "title": "Учение Мирталы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Д. Магия/Теория/Учение Мирталы.md",
+                "file": "В. Народы/Сфинксы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Учение Мирталы"
+              "title": "Backlinks for Сфинксы"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Д. Магия/Теория/Учение Мирталы.md",
+                "file": "В. Народы/Сфинксы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Учение Мирталы"
+              "title": "Outgoing links from Сфинксы"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Д. Магия/Теория/Учение Мирталы.md",
+                "file": "В. Народы/Сфинксы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Учение Мирталы"
+              "title": "Outline of Сфинксы"
             }
           }
         ]
@@ -184,13 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6f5df13f0f7f8e5",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Д. Магия/Теория/Учение Мирталы.md",
     "Д. Магия/Теория/Теория ритуального измерения.md",
     "В. Народы/Сфинксы.md",
     "Pasted image 20250630093848.png",
     "Д. Магия/Теория/Кредо Барзукха.md",
-    "Д. Магия/Теория/Учение Мирталы.md",
     "Д. Магия/Теория/Магия.md",
     "sphynx1.png",
     "sphynx2.png",
