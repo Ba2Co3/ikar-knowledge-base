@@ -35,8 +35,7 @@
               "title": "Теория ритуального измерения"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
+                "file": "В. Народы/Сфинксы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Теория ритуального измерения"
+              "title": "Backlinks for Сфинксы"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
+                "file": "В. Народы/Сфинксы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Теория ритуального измерения"
+              "title": "Outgoing links from Сфинксы"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
+                "file": "В. Народы/Сфинксы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Теория ритуального измерения"
+              "title": "Outline of Сфинксы"
             }
           }
         ]
@@ -184,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6f5df13f0f7f8e5",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Pasted image 20250630093848.png",
+    "Д. Магия/Теория/Теория ритуального измерения.md",
     "Д. Магия/Теория/Кредо Барзукха.md",
     "Д. Магия/Теория/Учение Мирталы.md",
     "В. Народы/Сфинксы.md",
@@ -215,8 +216,6 @@
     "А. Персонажи/А11. Упоминания/Корвин Гонт.md",
     "А. Персонажи/А11. Упоминания/Константин Ласкарис.md",
     "А. Персонажи/А11. Упоминания/Долорес Амбридж.md",
-    "А. Персонажи/А11. Упоминания/Виктор Крам.md",
-    "А. Персонажи/А5. 1940–1959/Игорь Каркаров.md",
     "Б. Организации/Б4. Британские организации",
     "Б. Организации/Б3. Международные организации",
     "category-folder"
