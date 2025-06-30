@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Д. Магия/Теория/Учение Мирталы.md",
+                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Учение Мирталы"
+              "title": "Теория ритуального измерения"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Д. Магия/Теория/Учение Мирталы.md",
+                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Учение Мирталы"
+              "title": "Backlinks for Теория ритуального измерения"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Д. Магия/Теория/Учение Мирталы.md",
+                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Учение Мирталы"
+              "title": "Outgoing links from Теория ритуального измерения"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Д. Магия/Теория/Учение Мирталы.md",
+                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Учение Мирталы"
+              "title": "Outline of Теория ритуального измерения"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "c6f5df13f0f7f8e5",
   "lastOpenFiles": [
-    "Д. Магия/Теория/Магия.md",
+    "Д. Магия/Теория/Кредо Барзукха.md",
+    "Д. Магия/Теория/Учение Мирталы.md",
     "В. Народы/Сфинксы.md",
+    "Д. Магия/Теория/Магия.md",
     "sphynx1.png",
     "sphynx2.png",
     "А. Персонажи/А1. До 1880/Николас Фламель.md",
@@ -215,7 +217,6 @@
     "А. Персонажи/А11. Упоминания/Долорес Амбридж.md",
     "А. Персонажи/А11. Упоминания/Виктор Крам.md",
     "А. Персонажи/А5. 1940–1959/Игорь Каркаров.md",
-    "А. Персонажи/А4. 1920–1939/Антонин Долохов.md",
     "Б. Организации/Б4. Британские организации",
     "Б. Организации/Б3. Международные организации",
     "category-folder"
