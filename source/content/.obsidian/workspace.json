@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Д. Магия/Теория/Кредо Барзукха.md",
+                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кредо Барзукха"
+              "title": "Теория ритуального измерения"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Д. Магия/Теория/Кредо Барзукха.md",
+                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Кредо Барзукха"
+              "title": "Backlinks for Теория ритуального измерения"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Д. Магия/Теория/Кредо Барзукха.md",
+                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Кредо Барзукха"
+              "title": "Outgoing links from Теория ритуального измерения"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Д. Магия/Теория/Кредо Барзукха.md",
+                "file": "Д. Магия/Теория/Теория ритуального измерения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Кредо Барзукха"
+              "title": "Outline of Теория ритуального измерения"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "c6f5df13f0f7f8e5",
   "lastOpenFiles": [
-    "Д. Магия/Теория/Теория ритуального измерения.md",
     "Д. Магия/Теория/Кредо Барзукха.md",
+    "Д. Магия/Теория/Теория ритуального измерения.md",
     "Д. Магия/Теория/Учение Мирталы.md",
     "В. Народы/Сфинксы.md",
     "Pasted image 20250630093848.png",
